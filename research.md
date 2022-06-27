@@ -78,5 +78,5 @@ One of the main algorithms we use are called "iterative projection algorithms." 
 ## Extra resources on the web
 Here are some great resources revelant to our research!
 
-* Coherent X-ray Imaging Data Bank[https://www.cxidb.org]
-* 
+* [Coherent X-ray Imaging Data Bank](https://www.cxidb.org)
+* [Protein Data Bank](https://www.rcsb.org)
