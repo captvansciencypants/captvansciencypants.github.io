@@ -80,3 +80,5 @@ Here are some great resources revelant to our research!
 
 * [Coherent X-ray Imaging Data Bank](https://www.cxidb.org)
 * [Protein Data Bank](https://www.rcsb.org)
+* [Linac Coherent Light Source (LCLS)](https://lcls.slac.stanford.edu/overview)
+* [European XFEL](https://www.xfel.eu/facility/overview/index_eng.html)
