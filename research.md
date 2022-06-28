@@ -70,3 +70,15 @@ One of the main algorithms we use are called "iterative projection algorithms." 
 2. Elser, Rankenburg, and Thibault. "Searching with iterated maps". _PNAS_, **104**, 418-423 (2007).
 3. Millane and Lo. "Iterative projectionalgorithms in protein crystallography. I.Theory"  _Acta Cryst. A_, **69**, 517-527 (2013).
 4. Chen, Arnal, Morgan _et al_. "Reconstruction of an object from diffraction intensities averaged over multiple object clusters" _Journal of Optics_, **18**, 114003 (2016).
+
+
+
+---
+
+## Extra resources
+Here are some great resources on the web revelant to our research!
+
+* [Coherent X-ray Imaging Data Bank](https://www.cxidb.org)
+* [Protein Data Bank](https://www.rcsb.org)
+* [Linac Coherent Light Source (LCLS)](https://lcls.slac.stanford.edu/overview)
+* [European XFEL](https://www.xfel.eu/facility/overview/index_eng.html)

@@ -52,6 +52,7 @@ I've collected of some of the best resources I've encountered over the years bel
 2. [https://www.nesi.org.nz/services/training](https://www.nesi.org.nz/services/training) - The New Zealand eScience Infrastructure designs, builds, and operates a specialised platform of shared high performance computing infrastructure in New Zealand. They often hold training courses and software carpentries for researchers at all levels of their career.
 3. [Matplotlib information sheet](https://github.com/matplotlib/cheatsheets).
 4. [vi command reference](http://ex-vi.sourceforge.net/vi.html).
+5. [vim tips and tricks](https://www.cs.swarthmore.edu/oldhelp/vim/home.html).
 
 
 
